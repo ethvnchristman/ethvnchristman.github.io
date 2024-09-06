@@ -1,5 +1,13 @@
+---
+layout: essay
+type: essay
+title: "Just My Type: *My Thoughts On Learning Typescript*"
+# All dates must be YYYY-MM-DD format!
+date: 2024-09-05
+published: true
+labels:
+---
 ![typescriptmeme](https://i.redd.it/b70t2si6yrd61.png)
-# *My Thoughts On Learning Typescript*
 
 About a whole academic year ago, I took my first dive into C/C++ in my ICS 212 course, learning about pointers, ways to manage memory, and above all else, its strict type definitions. 
 
