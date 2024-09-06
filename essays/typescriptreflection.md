@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Just My Type: *My Thoughts On Learning Typescript*"
+title: "Just My Type: My Thoughts On Learning Typescript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
 published: true
 labels:
 ---
-![typescriptmeme](https://i.redd.it/b70t2si6yrd61.png)
-
+<img src ="https://i.redd.it/b70t2si6yrd61.png" width = "200" />
 About a whole academic year ago, I took my first dive into C/C++ in my ICS 212 course, learning about pointers, ways to manage memory, and above all else, its strict type definitions. 
 
 You could imagine my relief when I first opened that Intro to Typescript assignment and found the sweet surprise of a language that can infer types. 
