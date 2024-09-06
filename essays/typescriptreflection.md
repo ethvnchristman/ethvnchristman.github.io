@@ -21,8 +21,6 @@ Being introduced to Typescript this semester felt like a refresher to what I had
 
 While Typescript brought out many principles I had to learn with C/C++, it immediately struck me as a language deliberately designed for the developer’s experience. 
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
 ## Manual vs. Automatic (*i really like cars*)
 
 The main difference between the two lies within their ability to balance control and flexibility. I like to think of it in terms of driving an automatic versus a manual transmission car. 
