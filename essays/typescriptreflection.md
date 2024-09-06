@@ -6,8 +6,11 @@ title: "Just My Type: My Thoughts On Learning Typescript"
 date: 2024-09-05
 published: true
 labels:
+  - TypeScript
+  - Athletic Software Engineering
+  - E10
 ---
-<img src ="https://i.redd.it/b70t2si6yrd61.png" width = "200" />
+<img src ="https://i.redd.it/b70t2si6yrd61.png" width = "700px" />
 About a whole academic year ago, I took my first dive into C/C++ in my ICS 212 course, learning about pointers, ways to manage memory, and above all else, its strict type definitions. 
 
 You could imagine my relief when I first opened that Intro to Typescript assignment and found the sweet surprise of a language that can infer types. 
