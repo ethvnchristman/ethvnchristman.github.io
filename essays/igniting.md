@@ -7,7 +7,7 @@ date: 2015-08-26
 published: false
 labels:
   - Software Engineering
-  - Learning
+  - Learnin
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
