@@ -162,9 +162,10 @@ class Room {
       if (!roomFound) {
           cout << "\nRoom does not exist, try again." << endl;
       }
-  } 
+  };
+                                                
 
-
+<>
 </pre>
 
 <hr>
