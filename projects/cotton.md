@@ -1,14 +1,15 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: https://static.vecteezy.com/system/resources/previews/000/639/006/non_2x/vector-five-star-hotel-icon.jpg
+title: "Hotel Management"
+date: 2023
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - C++
+  - Group Project
+  - ICS 212
+summary: "A group project I participated in for my ICS 212 course which functions to manage a hotel."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
