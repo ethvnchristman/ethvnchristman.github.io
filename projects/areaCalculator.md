@@ -1,20 +1,20 @@
 ---
 layout: project
 type: project
-image: img/vector-five-star-hotel-icon.jpg
-title: "Hotel Management"
+image: img/Area-of-a-Square-1.png
+title: "Area Calculator"
 date: 2023
 published: true
 labels:
-  - C++
-  - Group Project
+  - C
+  - Solo Project
   - ICS 212
-summary: "A group project I participated in for my ICS 212 course which functions to manage a hotel."
+summary: "A lone project for my ICS 212 course which the objective is to calculate the areas of shapes."
 ---
 
-This program written in C++ was created for the purpose of managing a hotel, which was a culmination of efforts from me and 5 other classmates for our ICS 212 course. The specific functions of the program include managing rooms (which includes adding, searching, and deleting rooms), checking rooms in, searching for available rooms, searching for customers, checking out rooms, and finally a guest summary report. This project was extensive, therefore all these functions were split amongst the group, and I was assigned the tasks of creating a room class, as well as the managing rooms function which also had the addition, searching, and deletion of rooms. 
+This program written in C has the objective of calculating the area of shapes. The user would input their choice of shape they would like to find an area of, and must provide some dimension of value for the program to use in its calculations. Returned would be the area of the shape of their choice. This was one of my midterm projects for my ICS 212 course, and was reflective of all I had learned so far until that point.  
 
-The following code is a snippet of my contribution: (Comments indicate portions modified by others)
+The following code is the entirety of the project. 
 
 <hr>
 
