@@ -12,7 +12,11 @@ labels:
 summary: "A group project I participated in for my ICS 212 course which functions to manage a hotel."
 ---
 
-This program written in C++ was created for the purpose of managing a hotel, which was a culmination of efforts from me and 5 other classmates for our ICS 212 course. The specific functions of the program include managing rooms (which includes adding, searching, and deleting rooms), checking rooms in, searching for available rooms, searching for customers, checking out rooms, and finally a guest summary report. This project was extensive, therefore all these functions were split amongst the group, and I was assigned the tasks of creating a room class, as well as the managing rooms function which also had the addition, searching, and deletion of rooms. 
+This program written in C++ was created for the purpose of managing a hotel, which was a culmination of efforts from me and 5 other classmates for our ICS 212 course. The specific functions of the program include managing rooms, checking rooms in, searching for available rooms, searching for customers, checking out rooms, and finally a guest summary report. Managing rooms dealt with adding, deleting, or searching for rooms, in order to create a hotel. Checking rooms in and out dealt with assigning customers to those created and empty hotel rooms, and unassigning customers to their rooms and resetting those rooms. Through each move in and out, there was also a bill created based on the customer's intended stay, which added another level of complexity to the user interface. 
+
+This project was extensive, therefore all these functions were split amongst the group, and I was assigned the tasks of creating a room class, as well as the managing rooms function which also had the addition, searching, and deletion of rooms. 
+
+Being such a large project, this taught me a lot about working as a team. Not only to get a large task done, but also fairly was a challenge, so dividing each portion up taking into consideration programming ability, difficulty of each section, and the number of people working was something always in the back of our minds. In the end, it taught us lots about teamwork and working for the betterment of everyone, not just our own selves. 
 
 The following code is a snippet of my contribution: (Comments indicate portions modified by others)
 
