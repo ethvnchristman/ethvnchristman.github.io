@@ -12,7 +12,9 @@ labels:
 summary: "A lone project for my ICS 212 course which the objective is to calculate the areas of shapes."
 ---
 
-This program written in C has the objective of calculating the area of shapes. The user would input their choice of shape they would like to find an area of, and must provide some dimension of value for the program to use in its calculations. Returned would be the area of the shape of their choice. This was one of my midterm projects for my ICS 212 course, and was reflective of all I had learned so far until that point.  
+This program written in C has the objective of calculating the area of shapes. The user would input their choice of shape they would like to find an area of, and must provide some dimension of value for the program to use in its calculations. Returned would be the area of the shape of their choice. For circle images, the user would input a radius value in order to calculate the area. For squares, the user would input the length of a side, and that will be used to find the area. Lastly for spheres, which had a slightly more difficult calculation, only needed the radius in order to calculate using its algorithms. 
+
+This was a solo project, done for my midterm of my ICS 212 course. It was not very difficult, but taught me a lot about what I had learned so far in that course. It utilized every aspect that I had learned to that point, and thus was reflective about how well I was picking up both the new language as well as my problem solving skills.  
 
 The following code is the entirety of the project. 
 
