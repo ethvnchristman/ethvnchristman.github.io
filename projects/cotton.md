@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://static.vecteezy.com/system/resources/previews/000/639/006/non_2x/vector-five-star-hotel-icon.jpg
+image: img/vector-five-star-hotel-icon.jpg
 title: "Hotel Management"
 date: 2023
 published: true
