@@ -22,7 +22,71 @@ The following is a snapshot of the code.
 
 <pre>
 
+#include <stdio.h>
 
+//simple banking system
+float balance = 0; //global value of balance, to be altered throughout program
+
+void checkBalance(){
+    printf("Your balance is: $%.2f\n", balance); //simply prints global balance value
+}
+
+void deposit(){
+    float amount; //temporary user input as amount
+    printf("Enter the amount to deposit: ");
+    scanf("%f", &amount); 
+    balance += amount; //adds amount to current balance
+    printf("Deposit successful. Your balance is now $%.2f\n", balance); //prints
+
+}
+
+void withdraw(){
+    float amount; //temp user input as amount
+    printf("Enter the amount to withdraw: ");
+    scanf("%f", &amount);
+    balance -= amount; //subtracts amount from current balance
+    printf("Withdrawal successful. Your balance is now: $%.2f\n", balance); //prints
+
+}
+
+int menuDisplay(){ //display function so it can call itself to repeat the menu after each task until user selects to exit.
+    int choice; //holds user input of what function they want
+    printf("\nSimple Banking System Menu:\n");
+    printf("1. Check balance\n");
+    printf("2. Deposit funds\n");
+    printf("3. Withdraw funds\n");
+    printf("4. Exit\n");
+    printf("Enter your choice: ");
+    scanf("%d", &choice); //scans choice
+    switch (choice) { //switch case which calls specific functions according to what value the user entered.
+        case 1:  //checks the balance
+            checkBalance();
+            menuDisplay();
+            break;
+        case 2: //deposits funds
+            deposit();
+            menuDisplay();
+            break;
+        case 3: //withdraws funds
+            withdraw();
+            menuDisplay();
+            break;
+        case 4: //exits the program
+            printf("Exiting the banking system. Goodbye!");
+            return 0;
+        default: //throws an error and ends code if user inputs anything other than the given options.
+            printf("Invalid option, exiting system.");
+            return 0;
+
+    }
+
+    
+
+}
+int main(){
+    menuDisplay();
+    return 0;
+}
   
 </pre>
 
