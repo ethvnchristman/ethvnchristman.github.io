@@ -11,7 +11,7 @@ labels:
   - Code Quality
   - E28
 ---
-<img src ="https://preview.redd.it/eslint-or-me-not-sure-v0-owxri004t5la1.jpg?auto=webp&s=c6e7a0ed957ce155f56f8b8d8540007edb40dba7" width = "700px" />
+<img src ="https://preview.redd.it/eslint-or-me-not-sure-v0-owxri004t5la1.jpg?auto=webp&s=c6e7a0ed957ce155f56f8b8d8540007edb40dba7" width = "300px" />
 
   When I first heard about coding standards, I immediately thought about the most superficial details and issues, such as how much indentation is needed or the placement of brackets. Even so, coding standards are much more than just a stylistic format guide of a program. They provide a framework for consistent, maintainable, and easy-to-understand code, and as such, its role in enhancing software quality is not mentioned enough.
 
