@@ -31,7 +31,7 @@ labels:
 
   ESLint does not just enforce stylistic rules, but also functional ones. This includes warnings when variables are declared and not utilized, or maybe when a function is missing a return statement. In any case, these may seem like small issues, but after deep thinking, these errors thrown by the tool can prevent common errors and on top of that, teach us developers to think harder about the structure of the code. This can only be positive, as the standards it holds us to will be less like restrictions, and rather protective measures to ensure the quality of our code is where we want it to be. 
 
-  In my experience, I found the past week with ESLint to have its highs and lows. At the beginning, I was frustrated since whenever I felt I was making some progress, I was greeted with yet another error that seems to have popped out of nowhere, asking to fix something which I thought was not worth the trouble. However, after making it through that process multiple times, I found myself writing code that initially triggered fewer errors than when I had started showing just how much ESLint was shaping me to write good quality code from the start. 
+  In my experience, I found the past week with ESLint to have its highs and lows. At the beginning, I was frustrated since whenever I felt I was making some progress, I was greeted with yet another error that seems to have popped out of nowhere, asking to fix something which I thought was not worth the trouble. However, after making it through that process multiple times, I found myself writing code that initially triggered fewer errors than when I had started, showing just how much ESLint was shaping me to write good quality code from the start. 
 
 ## Hassle or Helpful?
 
