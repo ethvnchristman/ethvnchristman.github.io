@@ -11,7 +11,6 @@ labels:
   - Code Quality
   - E28
 ---
-<img src ="https://preview.redd.it/eslint-or-me-not-sure-v0-owxri004t5la1.jpg?auto=webp&s=c6e7a0ed957ce155f56f8b8d8540007edb40dba7" width = "300px" />
 
   When I first heard about coding standards, I immediately thought about the most superficial details and issues, such as how much indentation is needed or the placement of brackets. Even so, coding standards are much more than just a stylistic format guide of a program. They provide a framework for consistent, maintainable, and easy-to-understand code, and as such, its role in enhancing software quality is not mentioned enough.
 
@@ -26,6 +25,9 @@ labels:
  
 
 ## ESLint: The Nitpicker Nobody Wanted…
+
+<img src ="https://preview.redd.it/eslint-or-me-not-sure-v0-owxri004t5la1.jpg?auto=webp&s=c6e7a0ed957ce155f56f8b8d8540007edb40dba7" width = "300px" />
+
 
   ESLint does not just enforce stylistic rules, but also functional ones. This includes warnings when variables are declared and not utilized, or maybe when a function is missing a return statement. In any case, these may seem like small issues, but after deep thinking, these errors thrown by the tool can prevent common errors and on top of that, teach us developers to think harder about the structure of the code. This can only be positive, as the standards it holds us to will be less like restrictions, and rather protective measures to ensure the quality of our code is where we want it to be. 
 
