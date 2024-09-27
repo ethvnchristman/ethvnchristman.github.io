@@ -15,14 +15,14 @@ labels:
 
   When I first heard about coding standards, I immediately thought about the most superficial details and issues, such as how much indentation is needed or the placement of brackets. Even so, coding standards are much more than just a stylistic format guide of a program. They provide a framework for consistent, maintainable, and easy-to-understand code, and as such, its role in enhancing software quality is not mentioned enough.
 
-	Instead of labeling such guidelines as merely ‘trivial’, it is important to know that coding standards are vital in the production of reliable AND scalable software. Not just to make code look neat, but to make it easily understood, thus minimizing the risk of bugs and maximizing efficiency of collaboration with others. As such, I recognize coding standards as a quality and skill that I should look to master if I wish to improve my future software development endeavors.
+  Instead of labeling such guidelines as merely ‘trivial’, it is important to know that coding standards are vital in the production of reliable AND scalable software. Not just to make code look neat, but to make it easily understood, thus minimizing the risk of bugs and maximizing efficiency of collaboration with others. As such, I recognize coding standards as a quality and skill that I should look to master if I wish to improve my future software development endeavors.
 
 
 ## Looking Beyond:
 
   While specifics of indentation or bracket placement for the most part may seem as simple as personal preferences, its consistency is more important than it makes it out to be. When a team of collaborators follow the same standards, or at least something similar, everyone is able to read and understand each other’s thought processes and intentions more clearly. These standards thus unify all contributors into working together for developing, testing, and debugging code. Without such a standard, group project’s would quickly fall into a chaotic mess of each individual's own styles, halting workflow and diminishing both the team's effectiveness and efficiency. 
 
-	Similarly, coding standards help to navigate through projects even when it comes to just how you want to approach it. In most languages, there can be a multitude of directions you may choose to take in order to tackle any project, however, coding standards help to narrow down these options and avoid any inefficient patterns or common syntax mistakes at all. This brings me to ESLint, which I have been utilizing recently within my ICS 314 course.
+  Similarly, coding standards help to navigate through projects even when it comes to just how you want to approach it. In most languages, there can be a multitude of directions you may choose to take in order to tackle any project, however, coding standards help to narrow down these options and avoid any inefficient patterns or common syntax mistakes at all. This brings me to ESLint, which I have been utilizing recently within my ICS 314 course.
  
 
 ## ESLint: The Nitpicker Nobody Wanted…
