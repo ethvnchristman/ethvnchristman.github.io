@@ -16,7 +16,7 @@ labels:
   
   Quickly was I overwhelmed by responsive web design, but even quicker did my savior, Bootstrap 5, arrive to rescue me.
 
-<img src ="https://preview.redd.it/ox1nwq5x67061.jpg?width=1080&crop=smart&auto=webp&s=632c7440d1c10462c29f0ea28af260bd2bd8540a" width = "300px" />
+<img src ="" width = "300px" />
 
 ## The Beginning
 
