@@ -1,42 +1,39 @@
 ---
 layout: essay
 type: essay
-title: "Just My Type: My Thoughts On Learning Typescript"
+title: "Bootstrap Breakthrough"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-05
+date: 2024-10-10
 published: true
 labels:
-  - TypeScript
-  - Athletic Software Engineering
-  - E10
+  - HTML/CSS
+  - UI Framework
+  - Bootstrap 5
+  - E37
 ---
-<img src ="https://i.redd.it/b70t2si6yrd61.png" width = "700px" />
 
-About a whole academic year ago, I took my first dive into C/C++ in my ICS 212 course, learning about pointers, ways to manage memory, and above all else, its strict type definitions. 
+  When I started learning HTML and CSS as part of my ICS 314 course, I thought that I had everything I needed to build sleek and responsive websites. Oh boy, was I wrong. While HTML and CSS alone are crucial, they are incredibly tedious, especially when it comes to achieving those pixel-perfect designs on various window sizes. 
+  
+  Quickly was I overwhelmed by responsive web design, but even quicker did my savior, Bootstrap 5, arrive to rescue me.
 
-You could imagine my relief when I first opened that Intro to Typescript assignment and found the sweet surprise of a language that can infer types. 
+<img src ="https://preview.redd.it/ox1nwq5x67061.jpg?width=1080&crop=smart&auto=webp&s=632c7440d1c10462c29f0ea28af260bd2bd8540a" width = "300px" />
 
-## First Impressions
-Being introduced to Typescript this semester felt like a refresher to what I had previously learned, but with a *gentler* grasp on my mental wellbeing. 
+## The Beginning
 
-While Typescript brought out many principles I had to learn with C/C++, it immediately struck me as a language deliberately designed for the developer’s experience. 
+  At the start, I was ecstatic to tweak every part of a webpage utilizing these two fundamental parts of web page building. The ability to exercise control over each and every pixel felt as though building web pages was a video game, one I admittedly enjoyed, at least at first. 
+  
+  This quickly shifted, the first time I encountered the first boss: “<nav>”. Navigation bars using raw HTML were fine in full screen, but responsive design on the level I wanted needed tools to handle its complexity. 
 
-## Manual vs. Automatic (*i really like cars*)
+## Interactivity Issues
 
-The main difference between the two lies within their ability to balance control and flexibility. I like to think of it in terms of driving an automatic versus a manual transmission car. 
+  In my ICS 314 course, I learned about these foundational elements which act as the building blocks for most of the websites I interact with on a daily basis. Taking glances at some of them, I thought how impressive it was for these websites to function as they do. 
+  
+  Once I had started getting into it myself, I quickly realized how complex and time consuming it would be to get webpages to such a level of interactivity using these things alone. With that, the introduction of Bootstrap 5 two weeks ago couldn't have come at a better time.
 
-C/C++ comes at no surprise as the manual transmission, where you, the developer, are in full control over type declarations and memory, and thus are responsible for the many bugs that may occur from those operations. 
+## Strap Those Boots - Using Bootstrap to Better Understand HTML and CSS
 
-Typescript takes on the smooth, more comfortable automatic transmission—with its ability to infer types and catch any mismatched typing errors before the code even runs. 
+  At first, I was skeptical. Why would I jump right into a framework rather than focusing on further improving my HTML and CSS skills? The answer was simple. Because it does. Bootstrap was not solely about making web development easier— it taught me how to use HTML and CSS more properly by working through their key concepts. 
 
-This is not to say that you cannot apply strict types, as some automatic cars have the option to manually change gears, you also have the ability to bypass these inferences, and run a more dynamic program whenever desired. 
-
-## So What?
-
-With Typescript, you notice just how much more fluid and efficient coding can be, since you worry not about the low level operation details, and instead focus more on the logic of the actual program. 
-
-Comparing the painstaking debugging processes, Typescript’s edge makes the coding experience just that much more bearable. 
-
-As of writing this, I am currently in ICS 314, which revolves around an athletic style of software engineering. One of its most emphasized assignments, apart from projects, are WOD’s (Workout Of the Day). These time-limited problems are great at showing language fluidity and logical problem solving skills, and in combination with Typescript, allow for a greater focus on exactly those aspects of coding. 
-
-I personally enjoy the challenge, and think of it as more like that of a Kahoot.it game than a pop quiz. With that, I look forward to both honing my logical thinking skills using this program in this course, and as an added bonus, spare my parents from my endless debugging at 2 in the morning. (At least for this semester).
+  Before Bootstrap, I would manually define row and column structures, often finding difficulty to make them fully responsive. While its predefined classes reduced that complexity ten-fold, it helped teach me much more about not only semantic HTML and CSS properties, but more importantly, my thought process when it came to layouts. 
+  
+  The beauty of Bootstrap lies within how it changed my mindset, where now I think about responsiveness from the beginning. This would simplify how I operated under recent web page development assignments, as well as helping me realize how flexible CSS can be when used properly. By taking the more difficult parts of CSS out of the equation, I could better understand those underlying principles much better. 
