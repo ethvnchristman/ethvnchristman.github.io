@@ -15,6 +15,7 @@ labels:
   Remarkably, this is quite similar to software development, where careful and reusable plans can prevent all these events from ever occurring. This is where design patterns come into play; the blueprint for bringing your programming ideas to fruition.
 
 (don't be this guy ↓)
+
 <img src ="https://hihasan.xyz/wp-content/uploads/2023/07/1_lSeFWh9_jlDiGkLztCts3A.jpeg" width = "300px" />
 
 Design patterns are foundational solutions to common problems in software development. They may not always be specifically designed for every problem, but they are quite useful for reference in order to guide stressed out developers, (like myself  99% of the time), to get around structuring applications. Something like that of a recipe book with various ingredients and instructions to make ‘perfect’ dishes, which allow you to adjust them to make what works for you.
