@@ -9,8 +9,8 @@
     "summary": "I am currently pursuing a Bachelor of Science in Computer Science at the University of Hawaii at Manoa, within the Department of Information and Computer Sciences. I am on track to graduate in Spring 2026.",
     "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "ethvnchristman", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "ethan-christman", "url": "http://linkedin.com/in/changeme" }
+      { "network": "github", "username": "ethvnchristman", "url": "https://github.com/ethvnchristman" },
+      { "network": "linkedin", "username": "Ethan-Christman", "url": "www.linkedin.com/in/ethan-christman" }
     ]
   },
   "interests": [
@@ -42,69 +42,53 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Yomies Rice X Yogurt Hawaii",
+      "position": "Barista / Cashier",
+      "website": "https://www.yomieshawaii.com/",
+      "startDate": "2022-04-06",
+      "endDate": "2023-08-28",
+      "summary": "Shift-Leader of Yomies Rice X Yogurt Hawaii at Ala Moana",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Responsible for keeping storefront and back in stock and operational.",
+        "Supervised other coworkers and ensured quality control.",
+        "Handled conversations/problems with concerned customers",
+        "Introduced and trained new employees to work proficiently"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UberEats",
+      "position": "Food Delivery Driver",
+      "website": "https://www.uber.com/us/en/s/c/deliver-kochab/?ad_id=619427097799&adg_id=140288499509&campaign_id=18224094881&cre=619427097799&dev=c&dev_m=&fi_id=&gad_source=1&gclid=EAIaIQobChMI8vO7mq-3igMVeh5ECB3sNSyMEAAYASAAEgL6UvD_BwE&gclsrc=aw.ds&kw=uber%20delivery&kwid=kwd-296726663031&match=b&net=g&placement=&tar=&utm_campaign=CM2200341-search-google-brand_1_-99_US-National_o-c_web_acq_cpc_en_T4_Generic_BM_uber%20delivery_kwd-296726663031_619427097799_140288499509_b_c&utm_source=AdWords_Brand",
+      "startDate": "2023-09-30",
+      "endDate": "Present",
+      "summary": "Self-Employed Delivery Driver Under UberEats",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Carefully but efficiently made deliveries to customers across the island.",
+        "Amassed great knowledge of the island's roads and routes.",
+        "Excelled in situatons with kind and unkind customers alike."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Hoʻoulu ʻĀina",
+      "website": "https://hoouluaina.org/volunteer",
+      "position": "Volunteer",
+      "startDate": "2024-04-19",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Engaging in mālama ʻāina practices such as organic reforestation, gardening, and cultural sharing.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Creating natural compost to nuture and sustain the agriculture.",
+        "Learning about the traditional and cultural nuances between man and the land."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Opportunity Grant",
+      "date": "2024-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Grant awarded to students who are enrolled in at least 6 credits, on top of demonstrating financial need."
     }
   ],
   "references": [
