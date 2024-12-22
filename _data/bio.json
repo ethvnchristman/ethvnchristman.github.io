@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "TypeScript", "HTML/CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows11", "Git/GitHub", "Visual Studio Code", "Jupyter Notebook/Lab" ]
+      "keywords": [ "MacOS", "Windows11", "Git/GitHub", "Visual Studio Code", "Jupyter Notebook/Lab","Node.js", "React/Bootstrap", "Postgres", "Next.js/Vercel" ]
     }
   ],
   "education": [
