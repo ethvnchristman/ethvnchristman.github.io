@@ -13,7 +13,7 @@ labels:
   - ICS 314
 ---
 
-  ICS 314 left its mark as one of the courses that I had put the most amount of effort and time into, and am happy to say that I've reaped its rewards. While it focused mainly on web application development, it gave me a great and in depth understanding of the foundational software engineering principles that go above and beyond just building websites. My two greatest takeaways from this course were functional programming and coding standards. These two concepts are not just central to what we’ve worked on this semester, but are transferable to any kind of software development I involve myself in. For the rest of this essay, I will share what I have learned, and more importantly, how these experiences will serve me better in the future.
+  ICS 314 left its mark as one of the courses that I had put the most amount of effort and time into, and I am happy to say that I've reaped its rewards. While it focused mainly on web application development, it gave me a great and in depth understanding of the foundational software engineering principles that go above and beyond just building websites. My two greatest takeaways from this course were functional programming and coding standards. These two concepts are not just central to what we’ve worked on this semester, but are transferable to any kind of software development I involve myself in. For the rest of this essay, I will share what I have learned, and more importantly, how these experiences will serve me better in the future.
 
 
 ## Functional Programming
