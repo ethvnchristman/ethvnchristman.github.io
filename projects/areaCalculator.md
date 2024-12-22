@@ -4,7 +4,7 @@ type: project
 image: img/Area-of-a-Square-1.png
 title: "Area Calculator"
 date: 2023
-published: true
+published: false
 labels:
   - C
   - Solo Project
