@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/AdminDashboard.png
+image: img/SailKokokahi.png
 title: "Work, Pay, Play: Sail Kokokahi Volunteer Portal"
 date: 2024
 published: true
