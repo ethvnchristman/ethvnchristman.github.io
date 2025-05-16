@@ -6,7 +6,7 @@ title: "ICS414 Reflection - Git Happens"
 date: 2025-05-16
 published: true
 labels:
-  - NextJS
+  - Next-JS
   - Functional Programming
   - Collaboration
   - ICS 414
@@ -19,6 +19,8 @@ labels:
 ## Split Team, Split Sanity
 
   As good as it seemed, the experience wasn’t without its shortcomings. Working in a group where we didn’t frequently meet in person came with its own challenges. One major problem was the choice to split the team into a front end and back end format. While such a division makes sense on paper, especially when it comes to larger and more complex projects, it ended up doing more harm than good in ours. 
+
+  <img src ="https://pbs.twimg.com/media/E43JZXaXwAEjhzf.png" width = "300px" />
   
   Such a separation led to frequent misunderstandings and inconsistencies in how our code was supposed to interact. Without regular and clear communication, the boundaries between the two groups got slightly hazy, and expectations often fell short. This imbalance also resulted in some group members - myself included - taking on more complex issues more often during key stages of development. 
  
