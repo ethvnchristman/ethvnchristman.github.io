@@ -6,7 +6,7 @@ title: "ICS414 Reflection - Git Happens"
 date: 2025-05-16
 published: true
 labels:
-  - Next-JS
+  - Next.js
   - Functional Programming
   - Collaboration
   - ICS 414
