@@ -25,7 +25,7 @@ labels:
   Such a separation led to frequent misunderstandings and inconsistencies in how our code was supposed to interact. Without regular and clear communication, the boundaries between the two groups got slightly hazy, and expectations often fell short. This imbalance also resulted in some group members - myself included - taking on more complex issues more often during key stages of development. 
  
 
-## One Man, One Branch, TOO MANY Commits
+## One Man, One Branch, Many Commits
 
   On a personal level, I struggled with maintaining a steady pace of contributions. My schedule often forced me to work on the project in bursts, where I dedicated long sprints of time to coding and pushing all of my changes in a single commit, even when it dealt with more issues outside the scope of the issue name. This made it appear as though my contributions were less frequent, even though I took on some of the most complex and time-intensive tasks for the front end of the application. 
 
