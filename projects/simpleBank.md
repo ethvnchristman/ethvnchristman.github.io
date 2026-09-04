@@ -4,7 +4,7 @@ type: project
 image: img/how-to-draw-a-bank-step-9.jpg
 title: "Simple Banking System"
 date: 2023
-published: true
+published: false
 labels:
   - C
   - Self Project
