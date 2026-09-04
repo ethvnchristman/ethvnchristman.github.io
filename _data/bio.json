@@ -1,71 +1,82 @@
 {
   "basics": {
     "name": "Ethan Christman",
-    "label": "Student",
+    "label": "Software Engineer — TypeScript · React · Next.js",
     "picture": "https://github.com/ethvnchristman.png",
     "email": "ec72@hawaii.edu",
-    "phone": "808-783-9345",
     "website": "https://ethvnchristman.github.io",
-    "summary": "I am currently pursuing a Bachelor of Science in Computer Science at the University of Hawaii at Manoa, within the Department of Information and Computer Sciences. I am on track to graduate in Spring 2026.",
-    "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Computer Science graduate (B.S., University of Hawaiʻi at Mānoa, May 2026) building full-stack web applications in TypeScript, React, and Next.js. Built and deployed a volunteer management platform with QR-based attendance tracking for a community sailing organization, and currently developing a multilingual booking site for a tourism client. Currently working toward LLM application engineering — retrieval, tool calling, and evaluation.",
+    "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ethvnchristman", "url": "https://github.com/ethvnchristman" },
-      { "network": "linkedin", "username": "Ethan-Christman", "url": "https://www.linkedin.com/in/ethan-christman/" }
+      { "network": "linkedin", "username": "ethan-christman", "url": "https://www.linkedin.com/in/ethan-christman/" }
     ]
   },
   "interests": [
-    { "name": "Artificial Intelligence" },
-    { "name": "DevOps and Cloud Computing" },
-    { "name": "Automobiles" },
-    { "name": "Space" }
+    { "name": "Full-Stack Web Development" },
+    { "name": "Forward Deployed Engineering" },
+    { "name": "LLM Application Development" },
+    { "name": "Deployment & Cloud Infrastructure" },
+    { "name": "Systems Integration" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "TypeScript", "HTML/CSS" ]
+      "name": "Languages",
+      "keywords": [ "TypeScript", "JavaScript", "C", "C++", "HTML/CSS", "Python"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows11", "Git/GitHub", "Visual Studio Code", "Jupyter Notebook/Lab","Node.js", "React/Bootstrap", "Postgres", "Next.js/Vercel" ]
+      "name": "Frameworks & Libraries",
+      "keywords": [ "React", "Next.js", "Node.js", "Prisma", "Bootstrap", "REST APIs"]
+    },
+    {
+      "name": "Data",
+      "keywords": [ "PostgreSQL" ]
+    },
+    {
+      "name": "Tools & Practices",
+      "keywords": [ "Git/GitHub", "Visual Studio Code", "Vercel" , "Claude" , "Agile/Scrum Workflow"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
+      "institution": "University of Hawai'i at Mānoa, Honolulu, HI",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2022-08-22",
-      "endDate": "Present",
+      "endDate": "2026-05-19",
       "courses": [
+        "Software Engineering I & II",
+        "AI Programming", 
+        "Computer Vision",
+        "Intro to Large-Scale AI Systems", 
+        "Database Systems I",
+        "Algorithms", 
+        "Operating Systems"
       ]
     }
   ],
   "work": [
     {
-      "company": "Yomies Rice X Yogurt Hawaii",
-      "position": "Barista / Cashier",
-      "website": "https://www.yomieshawaii.com/",
-      "startDate": "2022-04-06",
-      "endDate": "2023-08-28",
-      "summary": "Shift-Leader of Yomies Rice X Yogurt Hawaii at Ala Moana",
+      "company": "Istanbul Hawaiʻi",
+      "position": "Server Assistant",
+      "website": "",
+      "startDate": "2025-12-01",
+      "endDate": "Present",
+      "summary": "Front-of-house support in a high-volume restaurant.",
       "highlights": [
-        "Responsible for keeping storefront and back in stock and operational.",
-        "Supervised other coworkers and ensured quality control.",
-        "Handled conversations/problems with concerned customers",
-        "Introduced and trained new employees to work proficiently"
+        "Manage high-volume customer requests in a fast-paced environment, triaging competing demands and staying composed under pressure."
       ]
     },
     {
-      "company": "UberEats",
-      "position": "Food Delivery Driver",
-      "website": "https://www.ubereats.com/",
-      "startDate": "2023-09-30",
-      "endDate": "Present",
-      "summary": "Self-Employed Delivery Driver Under UberEats",
+      "company": "Club Keiki, Central Pacific College",
+      "position": "Student Leader and Program Instructor",
+      "website": "",
+      "startDate": "2025-07-01",
+      "endDate": "2025-08-31",
+      "summary": "Led daily programs for visiting international youth.",
       "highlights": [
-        "Carefully but efficiently made deliveries to customers across the island.",
-        "Amassed great knowledge of the island's roads and routes.",
-        "Excelled in situatons with kind and unkind customers alike."
+        "Designed and led structured daily programs for international youth ages 6–18 in English-language learning and cultural immersion, adapting communication to diverse audiences.",
+        "Coordinated logistics with a team of leaders to meet program objectives."
       ]
     }
   ],
@@ -83,17 +94,4 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Manoa Opportunity Grant",
-      "date": "2024-Present",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "Grant awarded to students who are enrolled in at least 6 credits, on top of demonstrating financial need."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
 }
