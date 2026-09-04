@@ -4,7 +4,7 @@ type: project
 image: img/vector-five-star-hotel-icon.jpg
 title: "Hotel Management"
 date: 2023
-published: true
+published: false
 labels:
   - C++
   - Group Project
